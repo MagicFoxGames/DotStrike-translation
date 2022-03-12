@@ -44,7 +44,7 @@ To do this, you need to create a copy of the `template.json` file.
 Steps:
 1. You need to open the `template.json` file.
 2. Copy content.
-3. Create next to this file a new file. The file name must contain the language name. Example `ukranian.json`.
+3. Create next to this file a new file. The file name must contain the language name. Example `ukranian.json` (in the future, the file name will be changed to an abbreviated one).
 4. Paste copied content.
 5. Edit and save using the "Commit changes" button.
 
