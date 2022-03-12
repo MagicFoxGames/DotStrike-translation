@@ -50,7 +50,7 @@ Steps:
 
 ## If you are ready to submit the changes to us
 
-1. Go to the "Pull requests" page at github.com/<YOUR_USERNAME>/DotStrike-translation/pulls. You can access this page by clicking on the "Pull requests" tab in your copy of the project. 
+1. Go to the "Pull requests" page at `github.com/<YOUR_USERNAME>/DotStrike-translation/pulls`. You can access this page by clicking on the "Pull requests" tab in your copy of the project. 
 2. Click on the "New pull request" button. 
 3. It remains only to click on the "Create pull request" button and we will receive your changes. And once again on the "Create pull request" button.
 
