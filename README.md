@@ -9,7 +9,17 @@ If you do not know what GitHub is or do not know how to use it, then this short 
 
 ## Getting Started
 
-You can go the easy way or the hard way.
+The translation of a sentence consists of the text in quotation marks (original in English), a colon and the text in quotation marks (translation).
+
+Example:
+
+```
+"Hello": "Привіт"
+```
+
+English text before colon, Ukranian text after colon.
+
+You can get started the easy way or the hard way. 
 
 ### Easy way
 
@@ -26,6 +36,17 @@ To do this, you need to be able to use the git tool. I will not describe this me
 
 If you are editing an existing localization file, open it and click on the pencil icon. If you hover over it, the prompt "Edit this file" will appear.
 Make edits. Go down to the very bottom of the page and click on the "Commit changes" button.
+
+#### Creating a new localization file for another language
+
+To do this, you need to create a copy of the `template.json` file.
+
+Steps:
+1. You need to open the `template.json` file.
+2. Copy content.
+3. Create next to this file a new file. The file name must contain the language name. Example `ukranian.json`.
+4. Paste copied content.
+5. Edit and save using the "Commit changes" button.
 
 ## If you are ready to submit the changes to us
 
