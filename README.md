@@ -7,6 +7,18 @@ If you have experience with GitHub, then you know what to do. 😉
 
 If you do not know what GitHub is or do not know how to use it, then this short guide is for you. 
 
+`de.json` - German translation
+
+`ru.json` - Russian translation
+
+`template.json` - Template for translation into any language
+
+`tr.json` - Turkish translation
+
+`uk.json` - Ukrainian translation
+
+`zh.json` - Chinese (simplified) translation
+
 ## Getting Started
 
 The translation of a sentence consists of the text in quotation marks (original in English), a colon and the text in quotation marks (translation).
