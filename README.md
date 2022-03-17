@@ -1,3 +1,8 @@
+![Logo](images/logo.png)
+
+[![Discord](https://img.shields.io/discord/819668906200793108.svg?logo=discord&logoColor=white&logoWidth=20&labelColor=7289DA&label=Discord&color=17cf48)](https://discord.gg/UcD43URkaK)
+[![Steam](https://img.shields.io/badge/steam-page-green?style=flat&logo=steam)](https://store.steampowered.com/app/1562060/DotStrike/)
+
 # DotStrike-translation
 Translation of the DotStrike game
 
