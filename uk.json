@@ -16,6 +16,7 @@
     "BORDERLESS": "",
     "Bot difficulty (more is more difficult)": "Складність бота (більше - складніше)",
     "Bots": "Боти",
+    "BULLET IMPACTS": "",
     "CAMERA ZOOM": "НАБЛИЗИТИ КАМЕРУ",
     "CHANGE CAMERA": "ЗМІНИТИ КАМЕРУ",
     "Change team": "Змінити команду",
@@ -124,6 +125,7 @@
     "SOUND EFFECTS": "ЗВУКОВІ ЕФЕКТИ",
     "Sounds": "Звуки",
     "Spawn": "Відродитись",
+    "Speed up": "",
     "Start": "Почати",
     "Survived": "Пережив",
     "SWITCH WEAPON": "ЗМІНИТИ ЗБРОЯ",
@@ -150,7 +152,6 @@
     "WINDOWED": "ВІКОННИЙ",
     "Winner": "Переможець",
     "XB1": "XB1",
-    "You need to wait...": "Вам потрібно зачекати...",
     "Your opponent:": "Ваш супротивник:",
     "Your player died": "Ваш гравець помер",
     "Zombie": "Зомбі"

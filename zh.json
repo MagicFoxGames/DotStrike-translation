@@ -16,6 +16,7 @@
     "BORDERLESS": "无边界",
     "Bot difficulty (more is more difficult)": "机器人难度（越多越难）",
     "Bots": "机器人",
+    "BULLET IMPACTS": "",
     "CAMERA ZOOM": "相机变焦",
     "CHANGE CAMERA": "切换镜头",
     "Change team": "改变团队",
@@ -124,6 +125,7 @@
     "SOUND EFFECTS": "声音特效",
     "Sounds": "声音",
     "Spawn": "重生",
+    "Speed up": "",
     "Start": "开始游戏",
     "Survived": "幸存下来",
     "SWITCH WEAPON": "开关武器",
@@ -150,7 +152,6 @@
     "WINDOWED": "开窗的",
     "Winner": "优胜者",
     "XB1": "XB1",
-    "You need to wait...": "你需要等待...",
     "Your opponent:": "你的对手：",
     "Your player died": "你的玩家死了",
     "Zombie": "僵尸"

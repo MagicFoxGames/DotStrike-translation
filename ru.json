@@ -16,6 +16,7 @@
     "BORDERLESS": "С РАМКОЙ",
     "Bot difficulty (more is more difficult)": "Сложность ботов (больше - сложнее)",
     "Bots": "Ботов",
+    "BULLET IMPACTS": "Эффект попадания пуль",
     "CAMERA ZOOM": "ПРИБЛИЗИТЬ/ОТДАЛИТЬ КАМЕРУ",
     "CHANGE CAMERA": "СМЕНИТЬ КАМЕРУ",
     "Change team": "Сменить команду",
@@ -124,6 +125,7 @@
     "SOUND EFFECTS": "ЗВУКОВЫЕ ЭФФЕКТЫ",
     "Sounds": "Звуки",
     "Spawn": "Возродиться",
+    "Speed up": "Ускориться",
     "Start": "Начать",
     "Survived": "Пережито",
     "SWITCH WEAPON": "СМЕНИТЬ ОРУЖИЕ",
@@ -150,7 +152,6 @@
     "WINDOWED": "ОКОННЫЙ",
     "Winner": "Победитель",
     "XB1": "XB1",
-    "You need to wait...": "Вам нужно подождать...",
     "Your opponent:": "Твой противник:",
     "Your player died": "Твой игрок погиб",
     "Zombie": "Зомби"

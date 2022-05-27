@@ -16,6 +16,7 @@
     "BORDERLESS": "RANDLOS",
     "Bot difficulty (more is more difficult)": "Bot-Schwierigkeit (mehr ist schwieriger)",
     "Bots": "Bots",
+    "BULLET IMPACTS": "",
     "CAMERA ZOOM": "KAMERA-ZOOM",
     "CHANGE CAMERA": "KAMERA WECHSELN",
     "Change team": "Team wechseln",
@@ -124,6 +125,7 @@
     "SOUND EFFECTS": "SOUNDEFFEKTE",
     "Sounds": "Geräusche",
     "Spawn": "Laichen",
+    "Speed up": "",
     "Start": "Spiel starten",
     "Survived": "Überlebt",
     "SWITCH WEAPON": "WAFFE WECHSELN",
@@ -150,7 +152,6 @@
     "WINDOWED": "FENSTER",
     "Winner": "Gewinner",
     "XB1": "XB1",
-    "You need to wait...": "Sie müssen warten...",
     "Your opponent:": "Dein Gegner:",
     "Your player died": "Dein Spieler starb",
     "Zombie": "Zombie"
